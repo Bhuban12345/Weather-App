@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://images.unsplash.com/photo-1643319391547-04c5709996da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+}
+.card{
+    background-color: blueviolet;
+    width:400px;
+    height:450px;
+    border-radius:20px;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    margin-top: 60px;
+}
+.search{
+    margin-top:60px;
+}
